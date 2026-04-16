@@ -1,0 +1,9 @@
+We are hiring a Data Scientist.
+
+Requirements:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Tools: TensorFlow, PyTorch, SQL
+- Minimum 2 years experience

@@ -1,0 +1,28 @@
+Name: Ravi Sharma
+Email: ravi.sharma@gmail.com
+Phone: +91-9123456780
+Location: Hyderabad, India
+
+Summary:
+Motivated Data Analyst with 1.5 years of experience working with data and basic machine learning techniques.
+
+Skills:
+Python, Machine Learning, Data Analysis
+
+Tools & Technologies:
+Pandas, NumPy, SQL, Excel, Matplotlib
+
+Experience:
+Data Analyst – Wipro (2023–Present)
+- Analyzed business data and generated reports
+- Created dashboards using Excel and Power BI
+- Assisted in basic ML model development
+
+Projects:
+- Sales Data Analysis Dashboard
+- Basic ML Model for Prediction
+
+Education:
+B.Tech in Information Technology – 2023
+
+Experience: 1.5 years in Data Analysis

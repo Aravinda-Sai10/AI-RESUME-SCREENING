@@ -1,0 +1,32 @@
+Name: Aisha Mehta
+Email: aisha.mehta@gmail.com
+Phone: +91-9876543210
+Location: Bangalore, India
+
+Summary:
+Results-driven Data Scientist with 3+ years of experience in building machine learning models and deploying AI solutions. Strong expertise in NLP, deep learning, and data analytics.
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, Data Analysis, Statistics
+
+Tools & Technologies:
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, SQL, Power BI
+
+Experience:
+Data Scientist – Infosys (2022–Present)
+- Built NLP models for sentiment analysis improving accuracy by 18%
+- Developed predictive models for customer churn using ML algorithms
+- Worked with large-scale datasets and optimized model performance
+
+Junior Data Analyst – TCS (2021–2022)
+- Performed data cleaning and visualization
+- Assisted in building ML models
+
+Projects:
+- Resume Screening System using NLP
+- Customer Churn Prediction Model
+
+Education:
+B.Tech in Computer Science – 2021
+
+Experience: 3 years in Data Science and Machine Learning

@@ -1,0 +1,24 @@
+Name: Priya Joshi
+Email: priya.joshi@gmail.com
+Phone: +91-9988776655
+Location: Pune, India
+
+Summary:
+Recent graduate looking for entry-level opportunities in IT.
+
+Skills:
+Basic Python, MS Excel
+
+Tools:
+Excel
+
+Experience:
+No professional experience
+
+Projects:
+- Simple Calculator using Python
+
+Education:
+B.Sc Computer Science – 2024
+
+Experience: Fresher
